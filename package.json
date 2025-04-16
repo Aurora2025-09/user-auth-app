@@ -1,0 +1,17 @@
+{
+  "name": "user-auth-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+     "test": "jest",
+     "lint": "eslint src/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "eslint": "^9.24.0",
+    "jest": "^29.7.0"
+  }
+}
